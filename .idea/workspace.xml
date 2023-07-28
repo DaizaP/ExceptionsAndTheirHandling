@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37b13347-6d1c-4860-8259-93717b0b7811" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptionsandtheirhandling/Homework/t1/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptionsandtheirhandling/Homework/t2/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptionsandtheirhandling/Homework/t3/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptionsandtheirhandling/Seminar1/t0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptionsandtheirhandling/Seminar1/t1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptionsandtheirhandling/Seminar1/t2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptionsandtheirhandling/Seminar1/t4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptionsandtheirhandling/Seminar2/Homework/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptionsandtheirhandling/Seminar2/Homework/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptionsandtheirhandling/Seminar2/Homework/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptionsandtheirhandling/Seminar2/Homework/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptionsandtheirhandling/Seminar2/t1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptionsandtheirhandling/Seminar2/t2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/exceptionsandtheirhandling/Seminar2/t3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/exceptionsandtheirhandling/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/txt3.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2SxlqbdWcBr9Z7mLhiERWeE9XjA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Дмитрий/Desktop/Обучение/exception/ExceptionsAndTheirHandling&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Дмитрий\Desktop\Обучение\exception\ExceptionsAndTheirHandling" />
+      <recent name="C:\Users\Дмитрий\Desktop\Обучение\exception\ExceptionsAndTheirHandling\src\main\java\com\example\exceptionsandtheirhandling" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37b13347-6d1c-4860-8259-93717b0b7811" name="Changes" comment="" />
+      <created>1690096306774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690096306774</updated>
+    </task>
+    <servers />
+  </component>
+</project>
