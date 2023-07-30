@@ -22,7 +22,7 @@ public class Task2 {
             if (d == 0) {/*2*/
                 throw new ArithmeticException("/ by zero");
             }
-            double catchedRes1 = Double.valueOf(intArray[7] / d); /*3*/ /*Если убрать, на выходе всегда будет 0 после точки
+            double catchedRes1 = Double.valueOf(intArray[7]) / d; /*3*/ /*Если убрать, на выходе всегда будет 0 после точки
             (Если, конечно, не учитывать то, что мы в делитель по условиям задачи суём 0.).*/
             System.out.println("catchedRes1 = " + catchedRes1);
         } catch (ArrayIndexOutOfBoundsException | ArithmeticException e) { /*4*/

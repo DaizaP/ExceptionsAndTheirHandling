@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37b13347-6d1c-4860-8259-93717b0b7811" name="Changes" comment="Добавил домашнее задание" />
+    <list default="true" id="37b13347-6d1c-4860-8259-93717b0b7811" name="Changes" comment="Поправил задание" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,12 +78,20 @@
       <option name="project" value="LOCAL" />
       <updated>1690583026773</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Поправил задание">
+      <created>1690698136313</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690698136313</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Создал репозиторий" />
     <MESSAGE value="Добавил домашнее задание" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавил домашнее задание" />
+    <MESSAGE value="Поправил задание" />
+    <option name="LAST_COMMIT_MESSAGE" value="Поправил задание" />
   </component>
 </project>
