@@ -16,9 +16,17 @@ public class Presenter {
     }
     public void buttonClick(){
         try{
-            view.print(parser.parserData(view.getValue("Введите ФИО, дату рождения, номер телефона и пол через пробел: ").split(" ")));
+            view.print(
+                    parser.parserData(
+                            view.getValue(
+                                    "Введите ФИО, дату рождения, номер телефона и пол через пробел: ")
+                                    .split(" ")
+                    )
+            );
         } catch (RuntimeException e) {
-            view.printConsole(traceEx.trace(e));
+            view.printConsole(
+                    traceEx.trace(e)
+            );
         }
     }
 }

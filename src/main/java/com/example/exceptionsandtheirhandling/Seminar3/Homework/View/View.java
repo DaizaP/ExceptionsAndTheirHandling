@@ -14,7 +14,7 @@ public class View {
         return in.nextLine();
     }
     public void print(String[] data) throws RuntimeException {
-        try (FileWriter fw = new FileWriter(String.format("%s.txt", data[0].toLowerCase()), true)) {
+        try (FileWriter fw = new FileWriter(String.format("%s.txt", data[0].toLowerCase())/*Фамилия*/, true)) {
             fw.append(Arrays.toString(data)).append("\n");
         } catch (IOException e) {
             throw new RuntimeException(e.getMessage());

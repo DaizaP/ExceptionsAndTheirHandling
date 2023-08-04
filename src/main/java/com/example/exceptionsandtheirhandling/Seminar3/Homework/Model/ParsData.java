@@ -25,7 +25,8 @@ public class ParsData implements Parser{
         }
         for (int j =0; j< res.length; j++) {
             if (res[j] == null){
-                throw new NullPointerException("Преобразование строки прошло неудачно. Индекс значения с ошибкой: " + j);
+                throw new NullPointerException(
+                        "Преобразование строки прошло неудачно. Индекс значения с ошибкой: " + j);
             }
         }
         return res;
